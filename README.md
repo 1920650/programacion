@@ -7,15 +7,15 @@
 
 ### Reparto de tareas
 - Yo:
-  - Implementacion de MarcaDAO
-  - Funcionalidad: crear marcas y listar sus botas (usando BotaDAO)
+  - Implementacion de MarcaDao
+  - Funcionalidad: crear marcas y listar sus botas (usando BotaDao)
 - Yo tambien:
-  - Implementacion de BotaDAO
-  - Funcionalidad: registrar nuevas botas (usando MarcaDAO)
+  - Implementacion de BotaDao
+  - Funcionalidad: registrar nuevas botas (usando MarcaDao)
 
-### Metodos utilizados del compañero
-- Yo use: BotaDAO.obtenerPorMarca(marcaId)
-- Yo tambien use: MarcaDAO.obtenerPorId(id)
+### Metodos utilizados
+- Botas: BotaDao.obtenerPorMarca(marcaId)
+- Marcas: MarcaDao.obtenerPorId(id)
 
 (los dos los hago yo no encontre pareja)
 
