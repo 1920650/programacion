@@ -17,4 +17,5 @@
 - Yo use: BotaDAO.obtenerPorMarca(marcaId)
 - Yo tambien use: MarcaDAO.obtenerPorId(id)
 
+(los dos los hago yo no encontre pareja)
 
