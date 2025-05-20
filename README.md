@@ -3,7 +3,7 @@
 
 ### Modelo de datos
 - Marca: id, nombre, pais
-- Bota: id, modelo, talla, precio, stock, marca
+- Bota: id, nombre, numero de pie, precio, stock, marca
 
 ### Reparto de tareas
 - Yo:
@@ -17,5 +17,5 @@
 - Botas: BotaDao.obtenerPorMarca(marcaId)
 - Marcas: MarcaDao.obtenerPorId(id)
 
-(los dos los hago yo no encontre pareja)
+(los dos los hago yo, no encontre pareja)
 
